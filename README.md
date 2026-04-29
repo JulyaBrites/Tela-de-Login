@@ -10,7 +10,7 @@ Criar uma interface simples de login para estudos e prática de front-end.
 - CSS
 
 ## 🔗 Acesse o projeto
-https://julyabrites.github.io/Tela-de-login/
+https://julyabrites.github.io/Tela-de-Login/
 
 ## 📷 Preview
 ![Preview do projeto](preview.png)
